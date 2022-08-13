@@ -1,3 +1,1 @@
-//struct node
-{
-}
+console.log("Started a Linkedlist");
